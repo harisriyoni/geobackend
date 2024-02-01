@@ -1,4 +1,4 @@
-package gisbackend
+package geobackend
 
 import (
 	"encoding/json"
